@@ -1,1 +1,2 @@
 "# Python-nRooks" 
+"# Python-nQueens" 
